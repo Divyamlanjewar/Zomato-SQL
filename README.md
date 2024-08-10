@@ -1,3 +1,5 @@
-# Zomato-SQL
-An insightful SQL project focusing on analyzing Zomato restaurant data to uncover dining trends and preferences.
-**This project utilizes SQL queries to explore restaurant listings, customer reviews, and ratings to extract meaningful insights. Through data preprocessing, exploratory analysis, and SQL functions, it aims to identify popular cuisines, top-rated restaurants, and factors influencing customer satisfaction. Advanced SQL techniques such as subqueries, joins, and window functions are applied to perform complex analyses and derive actionable insights. This project offers valuable insights for restaurant owners, marketers, and food enthusiasts seeking to understand the dynamics of the dining industry**
+Problem Statement:The company wants to understand user activity by identifying non-ordering users, computing average food prices across restaurants, and deriving additional relevant insights.
+
+Approach: Involved meticulous data cleaning to eliminate null values and validate column relevance, followed by the application of advanced SQL Queries to analyze the data
+
+Conclusion: Identified users who had not placed orders and calculated average food prices across various restaurants, yielding valuable insights into user behavior and restaurant pricing trends.
